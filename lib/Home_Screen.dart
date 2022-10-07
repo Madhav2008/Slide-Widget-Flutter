@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:slide_to_act/slide_to_act.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -11,7 +12,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(child: Slider(value: value, onChanged: onChanged),),
+      body: Center(child: SlideAction(),),
     );
   }
 }
