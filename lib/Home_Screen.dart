@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(12.0),
-          child: SlideAction(
+          child: SlideAction(borderRadius: ,
             onSubmit: () {},
           ),
         ),
