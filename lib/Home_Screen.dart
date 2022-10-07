@@ -11,7 +11,8 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(backgroundColor: Colors.deepPurple,
+    return Scaffold(
+      backgroundColor: Colors.deepPurple,
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(12.0),
