@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
             sliderButtonIcon: Icon(
               Icons.lock_open,
               color: Colors.white,
-            ),
+            ),text: ,
             onSubmit: () {
               // function after slide
             },
