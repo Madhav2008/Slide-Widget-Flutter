@@ -26,7 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
               color: Colors.white,
             ),
             text: 'Slide to Unlock',
-            textStyle: TextStyle(fontSize: ),
+            textStyle: TextStyle(fontSize: 24),
             onSubmit: () {
               // function after slide
             },
