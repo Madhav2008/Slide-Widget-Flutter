@@ -1,1 +1,1 @@
-# Slide To Act
+# Slide To Act Widget
