@@ -24,7 +24,8 @@ class _HomeScreenState extends State<HomeScreen> {
             sliderButtonIcon: Icon(
               Icons.lock_open,
               color: Colors.white,
-            ),text: 'Slide To Unlock',
+            ),
+            text: 'Slide To Unlock',
             onSubmit: () {
               // function after slide
             },
