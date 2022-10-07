@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
             borderRadius: 12,
             elevation: 0,
             innerColor: Colors.deepPurple,
-            outerColor: Colors.red,
+            outerColor: Colors.deepPurple[200],
             onSubmit: () {
               // function after slide
             },
