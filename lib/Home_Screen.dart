@@ -13,7 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: SlideAction(onSubmit: (),),
+        child: SlideAction(onSubmit: (){},),
       ),
     );
   }
