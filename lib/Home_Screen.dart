@@ -12,7 +12,9 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(child: SlideAction(),),
+      body: Center(
+        child: SlideAction(),
+      ),
     );
   }
 }
