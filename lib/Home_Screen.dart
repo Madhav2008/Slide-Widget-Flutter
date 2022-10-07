@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
             textStyle: TextStyle(
               color: Colors.white,
               fontSize: 24,
-            ),
+            ),sliderRotate: ,
             onSubmit: () {
               // function after slide
             },
