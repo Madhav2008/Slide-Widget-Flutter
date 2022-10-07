@@ -17,7 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
           padding: const EdgeInsets.all(12.0),
           child: SlideAction(
             borderRadius: 12,
-            elevation: 0,
+            elevation: 0,innerColor: ,
             onSubmit: () {
               // function after slide
             },
