@@ -11,7 +11,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(child: ,),
+      body: Center(child: Slider(value: value, onChanged: onChanged),),
     );
   }
 }
